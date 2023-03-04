@@ -1,0 +1,1 @@
+TOKEN = 'No token for Github, sorry'
